@@ -1,3 +1,6 @@
+Note <br>
+This is a copy from a repository created by The-Crocop. All credit goes to The-Crocop. I inspired the project, but all work was done by The-Crocop. The original repository can be found here:https://github.com/The-Crocop/pyaes256
+
 # PyAes256
 
 This project aims to encrypt text with AES-256 and put it into a pdf similar to a paperwallet.
